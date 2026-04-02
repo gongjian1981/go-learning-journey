@@ -1,5 +1,3 @@
-# go-learning-journey
-
 # Go Learning Journey
 
 This repository documents my 14-day journey of learning Go (Golang) from scratch, focusing on building a solid foundation in backend development.
