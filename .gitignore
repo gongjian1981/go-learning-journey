@@ -32,3 +32,4 @@ go.work.sum
 # .vscode/
 day12-file-io/result.txt
 day13-student-manager/result.txt
+day14-student-report/output.txt

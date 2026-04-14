@@ -1,0 +1,16 @@
+Alice 20 85
+Bob 22 70
+Charlie 19 95
+David 21 95
+Eve 20 60
+Frank 23 58
+Grace 19 88
+Hannah 22 91
+Ivan 20 73
+Jack 21 66
+
+# invalid lines below
+Tom xx 88
+Jerry 20
+InvalidLine
+Anna 20 ninety
